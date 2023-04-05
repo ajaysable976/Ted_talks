@@ -2,9 +2,11 @@
 This is a machine learning project for predicting the number of views a TED talk will receive. It uses regression algorithms to predict the popularity of a talk based on various features such as the speaker, the topic, and the duration.
 
 ## Installation
-Clone the repository: git clone https://github.com/your_username/ted-talks-prediction.git
-Navigate to the project directory: cd ted-talks-prediction
-Install the necessary libraries: pip install -r requirements.txt
+Clone the repository: git clone https://github.com/your_username/Ted_talks.git
+Navigate to the project directory: cd ted_talks_views_prediction(regression).ipynb
+
+## Install the necessary libraries: 
+pip install -r requirements.txt
 
 ## Usage
 Run the Jupyter notebook: jupyter notebook
